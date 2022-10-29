@@ -1,0 +1,115 @@
+*{
+  color: black;
+  font-size: 15px;
+ 
+}
+body{
+  background-repeat:repeat;
+}
+h1{
+  font-size: 35px;;
+}
+h2{
+  font-size: 25px;
+}
+.bar h2{
+  font-size: 20px;
+}
+.bar{
+  margin-top: 50px;
+  width: 70%;
+}
+
+.split {
+    height: 100%;
+    position: absolute;
+    top: 0;
+    
+
+  }
+.left {
+    top: 6%;
+    left: 0;
+    margin: 10%;
+    width: 40%;
+    padding-top: 90px;
+    padding-left: 100px; 
+  }
+.right {
+    top: 17%;
+    width: 40%;
+    right: 0;
+    margin: 10%;
+    padding-left: 120px;
+
+  }
+
+.centered img {
+    display: block;
+    height: 250px;
+    width: 350px;
+    margin-top: 10px;
+    margin-right: auto;
+    margin-left: auto;
+    box-shadow: 10px 10px rgb(246,187,183);
+    border-radius: 5px;
+
+}
+.top-name{
+  box-shadow: 10px 10px  skyblue;
+  border-radius: 5px;
+  width: 400px;
+  height: 200px;
+  padding-left: 10px;
+  
+}
+
+
+.top-name p{
+  font-size: 20px;
+  font-weight: 600;
+  color: orange;
+}
+
+span{
+  font-size: 20px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  letter-spacing: -3px;
+  font-weight: 700;
+}
+
+<!--skills bar-->
+
+* {box-sizing: border-box}
+
+.container {
+  width: 100%;
+  background-color: #ddd;
+}
+
+.skills {
+  text-align: right;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: white;
+}
+
+.html {width: 40%; background-color: orange;}
+.py {width: 30%; background-color: #2196F3;}
+.cplus {width: 25%; background-color: #f44336;}
+.dm {width: 60%; background-color: rgb(16, 218, 171);}
+.word {width: 80%; background-color: blue;}
+.type {width: 90%; background-color: gold;}
+.eng {width: 80%; background-color: #2196F3;}
+.spani{width: 20%; background-color: #27ec19;}
+.pic{width: 40%; background-color: rgb(249, 22, 174);}
+
+.a{
+  list-style-type: circle;
+  color: aqua;
+}
+.fa{
+  color: orange;
+  font-size: 36px;
+}
+
